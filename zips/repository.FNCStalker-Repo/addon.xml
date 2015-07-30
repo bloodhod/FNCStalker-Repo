@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.FNCStalker-Repo" name="FNCStalker Repo" version="1.1" provider-name="FreeNetCable">
+	<extension point="xbmc.addon.repository" name="FNC Stalker Repository">
+		<info compressed="false">http://raw.github.com/bloodhod/FNCStalker-Repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/bloodhod/FNCStalker-Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/bloodhod/FNCStalker-Repo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>FNC Stalker Repository</summary>
+		<description>Download and install the addon. For OFFICIAL Support Visit www.freenetcable.com</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
